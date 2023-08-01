@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="log4net" Version="2.0.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="3.1.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="3.1.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.22" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AWS_Referential">
+      <HintPath>..\..\AWS_Referential\AWS_Referential\bin\Debug\netcoreapp3.1\AWS_Referential.dll</HintPath>
+    </Reference>
+    <Reference Include="AWS_ReferentialChecks">
+      <HintPath>..\..\AWS_Referential_Checks\ReferentialChecks\bin\Debug\netcoreapp3.1\AWS_ReferentialChecks.dll</HintPath>
+    </Reference>
+    <Reference Include="AWS_Referential_Feeding">
+      <HintPath>..\..\AWS_Referential_Feeding\ReferentialFeeding\bin\Debug\netcoreapp3.1\AWS_Referential_Feeding.dll</HintPath>
+    </Reference>
+    <Reference Include="AWS_Reporting">
+      <HintPath>..\..\AWS_Referential_Reporting\Reporting\bin\Debug\netcoreapp3.1\AWS_Reporting.dll</HintPath>
+    </Reference>
+    <Reference Include="Bloomberg">
+      <HintPath>..\..\AWS_Data_Provider\Bloomberg\bin\Debug\netstandard2.0\Bloomberg.dll</HintPath>
+    </Reference>
+    <Reference Include="Markit">
+      <HintPath>..\..\AWS_Data_Provider\Markit\bin\Debug\Markit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

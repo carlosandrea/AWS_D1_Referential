@@ -1,0 +1,5 @@
+﻿Derivative;;;;;Listing;;;;;;;;;Underlying;;Derivative;;
+Ticker;Name;Isin;Figi;Cusip;Ric;Mic;PrimaryMic;BBGCode;Sedol;Cusip;Name;CurrencyCode;CurrencyMultiplier;Underlying;Underling Isin;DerivativeType;ExpirationDate;PV
+IUAU2 Index;FTSE100 Index Fut Sep22;DE000C58RWE9;DE000C58RWE9;DE000C58RWE9;IUAU2 Index;XEUR;XEUR;IUAU2 Index;DE000C58RWE9;DE000C58RWE9;IUAU2 Index;GBP;0,01;UKX;GB0001383545;FUTURE;16.09.2022;10,00
+CFN2 Index;CAC40 10 EURO FUT Jul22;FREN05564645;FREN05564645;FREN05564645;CFN2 Index;XMON;XMON;CFN2 Index;FREN05564645;FREN05564645;CFN2 Index;EUR;1;CAC;FR0003500008;FUTURE;15.07.2022;10,00
+;;;;;;;;;;;;;;;;;;

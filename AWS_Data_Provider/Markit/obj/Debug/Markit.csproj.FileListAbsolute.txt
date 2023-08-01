@@ -1,0 +1,46 @@
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\bin\Debug\Markit.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\bin\Debug\Markit.pdb
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\bin\Debug\Newtonsoft.Json.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\bin\Debug\System.Security.AccessControl.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\bin\Debug\System.Security.Permissions.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\bin\Debug\System.Security.Principal.Windows.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\obj\Debug\Markit.csproj.CoreCompileInputs.cache
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\obj\Debug\Markit.csproj.CopyComplete
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\obj\Debug\Markit.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\obj\Debug\Markit.pdb
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\bin\Debug\System.Net.Http.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\obj\Debug\Markit.csprojAssemblyReference.cache
+C:\Dev\Data Provider\Data Provider\Markit\bin\Debug\Markit.dll
+C:\Dev\Data Provider\Data Provider\Markit\bin\Debug\Markit.pdb
+C:\Dev\Data Provider\Data Provider\Markit\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Data Provider\Data Provider\Markit\bin\Debug\System.Net.Http.dll
+C:\Dev\Data Provider\Data Provider\Markit\bin\Debug\System.Security.AccessControl.dll
+C:\Dev\Data Provider\Data Provider\Markit\bin\Debug\System.Security.Permissions.dll
+C:\Dev\Data Provider\Data Provider\Markit\bin\Debug\System.Security.Principal.Windows.dll
+C:\Dev\Data Provider\Data Provider\Markit\obj\Debug\Markit.csproj.CoreCompileInputs.cache
+C:\Dev\Data Provider\Data Provider\Markit\obj\Debug\Markit.csproj.CopyComplete
+C:\Dev\Data Provider\Data Provider\Markit\obj\Debug\Markit.dll
+C:\Dev\Data Provider\Data Provider\Markit\obj\Debug\Markit.pdb
+C:\Dev\Data Provider\Data Provider\Markit\obj\Debug\Markit.csproj.AssemblyReference.cache
+C:\Dev\AWS\AWS_Data_Provider\Markit\bin\Debug\Markit.dll
+C:\Dev\AWS\AWS_Data_Provider\Markit\bin\Debug\Markit.pdb
+C:\Dev\AWS\AWS_Data_Provider\Markit\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\AWS\AWS_Data_Provider\Markit\bin\Debug\System.Security.AccessControl.dll
+C:\Dev\AWS\AWS_Data_Provider\Markit\bin\Debug\System.Security.Permissions.dll
+C:\Dev\AWS\AWS_Data_Provider\Markit\bin\Debug\System.Security.Principal.Windows.dll
+C:\Dev\AWS\AWS_Data_Provider\Markit\obj\Debug\Markit.csproj.CoreCompileInputs.cache
+C:\Dev\AWS\AWS_Data_Provider\Markit\obj\Debug\Markit.csproj.CopyComplete
+C:\Dev\AWS\AWS_Data_Provider\Markit\obj\Debug\Markit.dll
+C:\Dev\AWS\AWS_Data_Provider\Markit\obj\Debug\Markit.pdb
+C:\Dev\AWS\AWS_Data_Provider\Markit\obj\Debug\Markit.csproj.AssemblyReference.cache
+C:\Dev\AWS - Copie\AWS_Data_Provider\Markit\bin\Debug\Markit.dll
+C:\Dev\AWS - Copie\AWS_Data_Provider\Markit\bin\Debug\Markit.pdb
+C:\Dev\AWS - Copie\AWS_Data_Provider\Markit\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\AWS - Copie\AWS_Data_Provider\Markit\bin\Debug\System.Security.AccessControl.dll
+C:\Dev\AWS - Copie\AWS_Data_Provider\Markit\bin\Debug\System.Security.Permissions.dll
+C:\Dev\AWS - Copie\AWS_Data_Provider\Markit\bin\Debug\System.Security.Principal.Windows.dll
+C:\Dev\AWS - Copie\AWS_Data_Provider\Markit\obj\Debug\Markit.csproj.AssemblyReference.cache
+C:\Dev\AWS - Copie\AWS_Data_Provider\Markit\obj\Debug\Markit.csproj.CoreCompileInputs.cache
+C:\Dev\AWS - Copie\AWS_Data_Provider\Markit\obj\Debug\Markit.csproj.CopyComplete
+C:\Dev\AWS - Copie\AWS_Data_Provider\Markit\obj\Debug\Markit.dll
+C:\Dev\AWS - Copie\AWS_Data_Provider\Markit\obj\Debug\Markit.pdb

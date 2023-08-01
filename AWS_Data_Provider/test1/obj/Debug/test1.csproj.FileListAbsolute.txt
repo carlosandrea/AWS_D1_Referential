@@ -1,0 +1,48 @@
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\bin\Debug\test1.exe.config
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\bin\Debug\test1.exe
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\bin\Debug\test1.pdb
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\bin\Debug\Markit.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\bin\Debug\Newtonsoft.Json.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\bin\Debug\Markit.pdb
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\obj\Debug\test1.csprojAssemblyReference.cache
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\obj\Debug\test1.csproj.CopyComplete
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\obj\Debug\test1.exe
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\obj\Debug\test1.pdb
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\bin\Debug\Bloomberg.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\bin\Debug\Bloomberglp.Blpapi.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\bin\Debug\Bloomberg.pdb
+C:\Dev\Data Provider\Data Provider\test1\bin\Debug\test1.exe.config
+C:\Dev\Data Provider\Data Provider\test1\bin\Debug\test1.exe
+C:\Dev\Data Provider\Data Provider\test1\bin\Debug\test1.pdb
+C:\Dev\Data Provider\Data Provider\test1\bin\Debug\Bloomberg.dll
+C:\Dev\Data Provider\Data Provider\test1\bin\Debug\Markit.dll
+C:\Dev\Data Provider\Data Provider\test1\bin\Debug\Bloomberglp.Blpapi.dll
+C:\Dev\Data Provider\Data Provider\test1\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Data Provider\Data Provider\test1\bin\Debug\Bloomberg.pdb
+C:\Dev\Data Provider\Data Provider\test1\bin\Debug\Markit.pdb
+C:\Dev\Data Provider\Data Provider\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
+C:\Dev\Data Provider\Data Provider\test1\obj\Debug\test1.csproj.CopyComplete
+C:\Dev\Data Provider\Data Provider\test1\obj\Debug\test1.exe
+C:\Dev\Data Provider\Data Provider\test1\obj\Debug\test1.pdb
+C:\Dev\Data Provider\Data Provider\test1\obj\Debug\test1.csproj.AssemblyReference.cache
+C:\Dev\AWS\AWS_Data_Provider\test1\bin\Debug\test1.exe.config
+C:\Dev\AWS\AWS_Data_Provider\test1\bin\Debug\test1.exe
+C:\Dev\AWS\AWS_Data_Provider\test1\bin\Debug\test1.pdb
+C:\Dev\AWS\AWS_Data_Provider\test1\bin\Debug\Bloomberg.dll
+C:\Dev\AWS\AWS_Data_Provider\test1\bin\Debug\Markit.dll
+C:\Dev\AWS\AWS_Data_Provider\test1\bin\Debug\Bloomberglp.Blpapi.dll
+C:\Dev\AWS\AWS_Data_Provider\test1\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\AWS\AWS_Data_Provider\test1\bin\Debug\Bloomberg.pdb
+C:\Dev\AWS\AWS_Data_Provider\test1\bin\Debug\Markit.pdb
+C:\Dev\AWS\AWS_Data_Provider\test1\obj\Debug\test1.csproj.AssemblyReference.cache
+C:\Dev\AWS\AWS_Data_Provider\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
+C:\Dev\AWS\AWS_Data_Provider\test1\obj\Debug\test1.csproj.CopyComplete
+C:\Dev\AWS\AWS_Data_Provider\test1\obj\Debug\test1.exe
+C:\Dev\AWS\AWS_Data_Provider\test1\obj\Debug\test1.pdb
+C:\Dev\AWS\AWS_Data_Provider\test1\obj\Debug\test1.csproj.SuggestedBindingRedirects.cache
+C:\Dev\AWS - Copie\AWS_Data_Provider\test1\obj\Debug\test1.exe
+C:\Dev\AWS - Copie\AWS_Data_Provider\test1\obj\Debug\test1.pdb
+C:\Dev\AWS - Copie\AWS_Data_Provider\test1\obj\Debug\test1.csproj.AssemblyReference.cache
+C:\Dev\AWS - Copie\AWS_Data_Provider\test1\obj\Debug\test1.csproj.SuggestedBindingRedirects.cache
+C:\Dev\AWS - Copie\AWS_Data_Provider\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache

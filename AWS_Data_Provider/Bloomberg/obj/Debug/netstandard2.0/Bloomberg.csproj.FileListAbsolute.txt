@@ -1,0 +1,47 @@
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\bin\Debug\netstandard2.0\Bloomberg.deps.json
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\bin\Debug\netstandard2.0\Bloomberg.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\bin\Debug\netstandard2.0\Bloomberg.pdb
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.AssemblyInfoInputs.cache
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.AssemblyInfo.cs
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.csproj.CoreCompileInputs.cache
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.pdb
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.csprojAssemblyReference.cache
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\bin\Debug\netstandard2.0\Bloomberglp.Blpapi.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.csproj.CopyComplete
+C:\Dev\Data Provider\Data Provider\Bloomberg\bin\Debug\netstandard2.0\Bloomberg.deps.json
+C:\Dev\Data Provider\Data Provider\Bloomberg\bin\Debug\netstandard2.0\Bloomberg.dll
+C:\Dev\Data Provider\Data Provider\Bloomberg\bin\Debug\netstandard2.0\Bloomberg.pdb
+C:\Dev\Data Provider\Data Provider\Bloomberg\bin\Debug\netstandard2.0\Bloomberglp.Blpapi.dll
+C:\Dev\Data Provider\Data Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.AssemblyInfoInputs.cache
+C:\Dev\Data Provider\Data Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.AssemblyInfo.cs
+C:\Dev\Data Provider\Data Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.csproj.CoreCompileInputs.cache
+C:\Dev\Data Provider\Data Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.csproj.CopyComplete
+C:\Dev\Data Provider\Data Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.dll
+C:\Dev\Data Provider\Data Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.pdb
+C:\Dev\Data Provider\Data Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.csproj.AssemblyReference.cache
+C:\Dev\Data Provider\Data Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AWS\AWS_Data_Provider\Bloomberg\bin\Debug\netstandard2.0\Bloomberg.deps.json
+C:\Dev\AWS\AWS_Data_Provider\Bloomberg\bin\Debug\netstandard2.0\Bloomberg.dll
+C:\Dev\AWS\AWS_Data_Provider\Bloomberg\bin\Debug\netstandard2.0\Bloomberg.pdb
+C:\Dev\AWS\AWS_Data_Provider\Bloomberg\bin\Debug\netstandard2.0\Bloomberglp.Blpapi.dll
+C:\Dev\AWS\AWS_Data_Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AWS\AWS_Data_Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.AssemblyInfoInputs.cache
+C:\Dev\AWS\AWS_Data_Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.AssemblyInfo.cs
+C:\Dev\AWS\AWS_Data_Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.csproj.CoreCompileInputs.cache
+C:\Dev\AWS\AWS_Data_Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.csproj.CopyComplete
+C:\Dev\AWS\AWS_Data_Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.dll
+C:\Dev\AWS\AWS_Data_Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.pdb
+C:\Dev\AWS\AWS_Data_Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.csproj.AssemblyReference.cache
+C:\Dev\AWS - Copie\AWS_Data_Provider\Bloomberg\bin\Debug\netstandard2.0\Bloomberg.deps.json
+C:\Dev\AWS - Copie\AWS_Data_Provider\Bloomberg\bin\Debug\netstandard2.0\Bloomberg.dll
+C:\Dev\AWS - Copie\AWS_Data_Provider\Bloomberg\bin\Debug\netstandard2.0\Bloomberg.pdb
+C:\Dev\AWS - Copie\AWS_Data_Provider\Bloomberg\bin\Debug\netstandard2.0\Bloomberglp.Blpapi.dll
+C:\Dev\AWS - Copie\AWS_Data_Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.csproj.AssemblyReference.cache
+C:\Dev\AWS - Copie\AWS_Data_Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AWS - Copie\AWS_Data_Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.AssemblyInfoInputs.cache
+C:\Dev\AWS - Copie\AWS_Data_Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.AssemblyInfo.cs
+C:\Dev\AWS - Copie\AWS_Data_Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.csproj.CoreCompileInputs.cache
+C:\Dev\AWS - Copie\AWS_Data_Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.csproj.CopyComplete
+C:\Dev\AWS - Copie\AWS_Data_Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.dll
+C:\Dev\AWS - Copie\AWS_Data_Provider\Bloomberg\obj\Debug\netstandard2.0\Bloomberg.pdb

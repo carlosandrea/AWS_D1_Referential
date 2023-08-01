@@ -1,0 +1,11 @@
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\bin\Release\test1.exe.config
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\bin\Release\test1.exe
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\bin\Release\test1.pdb
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\bin\Release\Markit.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\bin\Release\Newtonsoft.Json.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\bin\Release\Markit.pdb
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\obj\Release\test1.csprojAssemblyReference.cache
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\obj\Release\test1.csproj.CoreCompileInputs.cache
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\obj\Release\test1.csproj.CopyComplete
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\obj\Release\test1.exe
+U:\charlesandre\Dev\Data Provider\Data Provider\test1\obj\Release\test1.pdb

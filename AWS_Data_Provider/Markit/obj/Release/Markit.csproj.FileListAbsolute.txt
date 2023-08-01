@@ -1,0 +1,12 @@
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\bin\Release\Markit.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\bin\Release\Markit.pdb
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\bin\Release\Newtonsoft.Json.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\bin\Release\System.Net.Http.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\bin\Release\System.Security.AccessControl.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\bin\Release\System.Security.Permissions.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\bin\Release\System.Security.Principal.Windows.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\obj\Release\Markit.csprojAssemblyReference.cache
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\obj\Release\Markit.csproj.CoreCompileInputs.cache
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\obj\Release\Markit.csproj.CopyComplete
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\obj\Release\Markit.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Markit\obj\Release\Markit.pdb

@@ -1,0 +1,9 @@
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\bin\Release\netstandard2.0\Bloomberg.deps.json
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\bin\Release\netstandard2.0\Bloomberg.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\bin\Release\netstandard2.0\Bloomberg.pdb
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\obj\Release\netstandard2.0\Bloomberg.csprojAssemblyReference.cache
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\obj\Release\netstandard2.0\Bloomberg.AssemblyInfoInputs.cache
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\obj\Release\netstandard2.0\Bloomberg.AssemblyInfo.cs
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\obj\Release\netstandard2.0\Bloomberg.csproj.CoreCompileInputs.cache
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\obj\Release\netstandard2.0\Bloomberg.dll
+U:\charlesandre\Dev\Data Provider\Data Provider\Bloomberg\obj\Release\netstandard2.0\Bloomberg.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iGXokT3tCRjbOw7ssU+Q7kFWV08Zi2SNDbSJh6x07AzFFH2jfZBKkrpT3QyityEuB2u9ooMLLuZS+5fCIwYJMw==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\AWS - Copie\\AWS_Data_Provider\\Bloomberg\\Bloomberg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

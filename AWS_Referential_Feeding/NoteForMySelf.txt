@@ -1,0 +1,4 @@
+Attention au status du dividend Markit : plusieurs status dans makrit : extdate,paydate etc... a repasser dans une seule enum // Done
+-Dans les compositions Markit on a pas de FIGI, donc on mets le CUSIP dans le FIGI pour le moment.
+-Dans les compositiosn Markit on a pas de Priamry Mic donc on utilise le Mic actuellement.
+-Pour les BasketPrice Markit on a pas de Sedol, Cusip, FIGI-> donc on mets l'ISIN pour le moment, le MIC est egal a None
