@@ -320,37 +320,9 @@ namespace ReferentialFeeding
             var IndexListing = query.GetIndexCompositionListing(IndexName, DateTime.Today);
             bloombergSecurityNames = IndexListing.Select(p => p.BloombergCode).ToList();
             //Fields
-            bloombergFieldNames.Add("BE008");
-            bloombergFieldNames.Add("IS061");
-            bloombergFieldNames.Add("BE090");
-            bloombergFieldNames.Add("BE962");
-            bloombergFieldNames.Add("BE004");
-            bloombergFieldNames.Add("RR002");
-            bloombergFieldNames.Add("RR009");
-            bloombergFieldNames.Add("BE003");
-            bloombergFieldNames.Add("RX072");
-            bloombergFieldNames.Add("BE248");
-
-            bloombergFieldNames.Add("BE051");
-            bloombergFieldNames.Add("BE052");
-            bloombergFieldNames.Add("BE055");
-            bloombergFieldNames.Add("BE053");
-            bloombergFieldNames.Add("EZ033");
-            bloombergFieldNames.Add("BE933");
-            bloombergFieldNames.Add("BE010");
-            bloombergFieldNames.Add("BE001");
-            bloombergFieldNames.Add("BE006");
-            bloombergFieldNames.Add("BE014");
-            bloombergFieldNames.Add("BE015");
-            bloombergFieldNames.Add("BE245");
-            bloombergFieldNames.Add("CF015");
-            bloombergFieldNames.Add("RR028");
-            bloombergFieldNames.Add("BS035");
-            bloombergFieldNames.Add("RR140");
-            bloombergFieldNames.Add("RR041");
-            bloombergFieldNames.Add("DS124");
+     
             bloombergFieldNames.Add("RR057");
-            bloombergFieldNames.Add("RR138");
+
 
 
             //Send Requets
