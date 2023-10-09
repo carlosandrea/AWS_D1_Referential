@@ -334,39 +334,6 @@ namespace ReferentialFeeding
                 try { 
                     EarningEstimate earningEstimate = new EarningEstimate();
                     Stock earningEstimateStock = query.GetStockByBBG(bloombergSecurityNames.ElementAt(i));
-                    earningEstimate.UniqueId = earningEstimateStock.UniqueId;
-                    earningEstimate.Stock = earningEstimateStock;
-                    earningEstimate.BEST_EPS = result[i, 0, 0];
-                    earningEstimate.IS_EPS = result[i, 0, 1];
-                    earningEstimate.BEST_TARGET_PRICE = result[i, 0, 2];
-                    earningEstimate.BEST_TARGET_MEDIAN = result[i, 0, 3];
-                    earningEstimate.BEST_EBIT = result[i, 0, 4];
-                    earningEstimate.EBIT = result[i, 0, 5];
-                    earningEstimate.EBITDA = result[i, 0, 6];
-                    earningEstimate.BEST_EBITDA = result[i, 0, 7];
-                    earningEstimate.FREE_CASH_FLOW_YIELD = result[i, 0, 8];
-                    earningEstimate.BEST_ESTIMATE_FCF = result[i, 0, 9];
-
-                    earningEstimate.Price_Earning = result[i, 0, 10];
-                    earningEstimate.Price_To_Book = result[i, 0,11];
-                    earningEstimate.Price_To_Sale = result[i, 0,12];
-                    earningEstimate.Price_To_CF = result[i, 0, 13];
-                    earningEstimate.PE_To_LTGR = result[i, 0, 14];
-                    earningEstimate.DPS_To_EPS = result[i, 0, 15];
-                    earningEstimate.Dividend_Per_Share = result[i, 0, 16];
-                    earningEstimate.Sales = result[i, 0, 17];
-                    earningEstimate.Net_Income = result[i, 0, 18];
-                    earningEstimate.ROE = result[i, 0, 19];
-                    earningEstimate.BEST_ROA = result[i, 0, 20];
-                    earningEstimate.BEST_Gross_Margin = result[i, 0, 21];
-                    earningEstimate.CF_From_Operation = result[i, 0, 22];
-                    earningEstimate.ROA = result[i, 0, 23];
-                    earningEstimate.Total_Asset = result[i, 0, 24];
-                    earningEstimate.Financial_Leverage = result[i, 0, 25];
-                    earningEstimate.LTDEBT_To_TotalAsset = result[i, 0, 26];
-                    earningEstimate.EquityShares_Outstanding = result[i, 0, 27];
-                    earningEstimate.Gross_Margin = result[i, 0, 28];
-                    earningEstimate.Asset_TurnOver = result[i, 0, 29];
 
                     earningEstimate.Last_Update = DateTime.Today;
 
